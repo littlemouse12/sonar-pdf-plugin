@@ -47,7 +47,7 @@ public final class PDFResources implements Serializable {
 
     public static final String HTTP_PATTERN = "http://";
 
-    public static final String SONAR_PDF_REPORT = "Sonar Report";
+    public static final String SONAR_PDF_REPORT = "CCSYUN Report";
 
     public static final String MAIN_TABLE_OF_CONTENTS = "main.table.of.contents";
 
